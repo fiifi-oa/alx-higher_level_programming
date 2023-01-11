@@ -9,8 +9,8 @@ def max_integer(my_list=[]):
                 max = my_list[i]
         return max
 
-"Write a function that finds the biggest integer of a list.
+"""Write a function that finds the biggest integer of a list.
 
 Prototype: def max_integer(my_list=[]):
 If the list is empty, return None
-You can assume that the list only contains integers"
+You can assume that the list only contains integers"""

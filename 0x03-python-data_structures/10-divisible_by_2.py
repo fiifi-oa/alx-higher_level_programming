@@ -8,4 +8,4 @@ def divisible_by_2(my_list=[]):
             blist[count] = False
     return(blist)
 
-"Write a function that finds all multiples of 2 in a list."
+"""Write a function that finds all multiples of 2 in a list."""
